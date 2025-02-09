@@ -5,7 +5,7 @@ import os
 import re  # Import regex library to remove unwanted characters
 
 # Configure your Gemini API key
-genai.configure(api_key="AIzaSyBcqXDJvxUvaZH-RNw2d8sWaVGE9sXh_fc")  # Replace with your actual API key
+genai.configure(api_key="")  # Replace with your actual API key
 
 app = Flask(__name__)
 
